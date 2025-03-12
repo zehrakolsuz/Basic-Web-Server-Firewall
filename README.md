@@ -1,4 +1,4 @@
-# Temel Web Sunucusu Güvenlik Duvarı Yapılandırması
+# Basic Web Server Firewall
 
 ## Genel Bakış
 Bu repository, Ubuntu sistemlerinde UFW (Uncomplicated Firewall) kullanarak temel web sunucusu güvenlik duvarı yapılandırmasını içerir. Yapılandırma, Apache2 web sunucusu kurulumunu ve güvenli web trafiği yönetimi için özel güvenlik duvarı kurallarını kapsamaktadır.
